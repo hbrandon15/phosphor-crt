@@ -28,3 +28,9 @@ Thumbs.db
 # Misc
 *.log
 *.tmp
+
+# Local assets (logos, source images — not tracked)
+assets/
+
+# Render output
+output/
