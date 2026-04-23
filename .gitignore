@@ -31,3 +31,6 @@ Thumbs.db
 
 # Local assets (logos, source images — not tracked)
 assets/
+
+# Render output
+output/
